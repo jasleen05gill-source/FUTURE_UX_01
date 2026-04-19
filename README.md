@@ -15,3 +15,8 @@ Designed a clean, structured, and mobile-first website with clear service sectio
 
 5. Note
 UI images are included in this repository along with a presentation to view the complete case study.
+
+6. Links 
+
+File Link - https://www.figma.com/design/Ha5G5phEXWy4keOhPIJE6t/Task-01?node-id=46-45&p=f&t=xKY9LDX61kcTLK6e-0
+Prototype Link - https://www.figma.com/proto/Ha5G5phEXWy4keOhPIJE6t/Task-01?node-id=46-45&t=qUWnFhqnSPYbPHeL-1
