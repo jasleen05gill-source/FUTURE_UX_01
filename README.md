@@ -1,5 +1,17 @@
-# FUTURE_UX_01
-Redesigned the Vidyam Legal website to improve UX, build trust, and boost consultation conversions. Simplified navigation, added clear service structure, strong CTAs, lead capture, and a mobile-first, responsive layout with SEO-friendly content. 
+Overview
+Redesigned the Vidyam Legal website to improve user experience, build trust, and increase consultation conversions.
 
-Project Link (figma) - https://www.figma.com/design/Ha5G5phEXWy4keOhPIJE6t/Task-01?node-id=46-45&p=f&t=7Xe9tsvP2J5rFBg1-0
-Prototype Link (figma) - https://www.figma.com/proto/Ha5G5phEXWy4keOhPIJE6t/Task-01?node-id=46-45&t=qUWnFhqnSPYbPHeL-1
+Problem
+Users faced unclear navigation, lack of trust signals, and difficulty in taking action, leading to low conversion rates.
+
+Solution
+Designed a clean, structured, and mobile-first website with clear service sections, strong CTAs, and simplified user flow to guide users toward booking consultations.
+
+Key Features
+- Clear value proposition and service structure
+- Conversion-focused homepage layout
+- Lead capture sections (forms, CTAs)
+- Mobile-first responsive design
+
+Note
+UI images are included in this repository along with a presentation to view the complete case study.
